@@ -1,4 +1,5 @@
----
+---settings Delete 
+googleapis/git
 version: 2
 jobs:
   build:
